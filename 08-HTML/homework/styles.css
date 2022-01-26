@@ -1,0 +1,19 @@
+h1 {
+    color: #ff14a5
+}
+img  {
+    width:400px ;
+}
+#thirdDiv{
+    height: 600 px;
+    width: 500px ;
+    background-color: salmon;
+    padding: 50 px;
+    border: 25px solid cornflowerblue ;
+}
+
+#spamId {
+    font-size: 18 px;
+    margin: 50 px
+}
+
